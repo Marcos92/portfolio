@@ -13,6 +13,15 @@ export const projects = [
       "indie"
     ),
     new Project(
+      "Pingle",
+      "A price guessing game based on Wordle and Costcodle, developed using React.<br><br>Play it <a href='https://pingle.pt' target='_blank'><b>here</b></a>!",
+      "assets/pingle_logo.png",
+      "assets/pingle_screen.png",
+      "#000000",
+      "#FFFFFF",
+      "indie"
+    ),
+    new Project(
       "Portugal Pastry Party",
       "A match-3 game themed around portuguese pastries and culture. I did all the game design, programming, art, and music. Made with Unity.<br><br>Play it now on <a href='https://play.google.com/store/apps/details?id=com.YolkYarn.PortugalPastryParty' target='_blank'><b>Android</b></a> and <a href='https://apps.apple.com/us/app/portugal-pastry-party/id6504043772' target='_blank'><b>iOS</b></a>!",
       "assets/ppp logo.png",
