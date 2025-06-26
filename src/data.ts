@@ -17,7 +17,7 @@ export const projects = [
       "A price guessing game based on Wordle and Costcodle, developed using React.<br><br>Play it <a href='https://pingle.pt' target='_blank'><b>here</b></a>!",
       "assets/pingle_logo.png",
       "assets/pingle_screen.png",
-      "#000000",
+      "#52862d",
       "#FFFFFF",
       "indie"
     ),
