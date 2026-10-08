@@ -1,11 +1,9 @@
-
-
 import { Project } from "./Project.ts";
 
 export const projects = [
     new Project(
-      "Boltspitter",
-      "I'm currently developing a roguelike first-person shooter inspired by Vampire Survivors, classic boomer shooters, and fast-paced combo systems seen in games like Tony Hawk's Pro Skater and Devil May Cry. Made with Unity, with a release planned in 2026.<br><br>Follow the development <a href='https://bsky.app/profile/boltspitter.bsky.social' target='_blank'><b>here</b></a>!",
+      "BoltSpitter",
+      "I'm currently developing a roguelike first-person shooter inspired by Vampire Survivors, classic boomer shooters, and fast-paced combo systems seen in games like Tony Hawk's Pro Skater and Devil May Cry. Made with Unity.<br><br>Follow the development <a href='https://bsky.app/profile/boltspitter.bsky.social' target='_blank'><b>here</b></a>!",
       "assets/fps logo.png",
       "assets/fps.gif",
       "#AA0000",
@@ -92,5 +90,68 @@ export const projects = [
       "#0099FF",
       "#FFFFFF",
       "miniclip"
+    ),
+    new Project(
+      "Golf Stars!",
+      "Worked on a major update for the game, that included new features and improvements. Made with Unity.<br><br>Available on <a href='https://apps.apple.com/om/app/golf-stars/id6473797567' target='_blank'><b>iOS</b></a>!",
+      "assets/golf stars logo.png",
+      "assets/golf stars.gif",
+      "#007527",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "Sniper Hunter",
+      "Worked on new features and improvements for the game. Made with Unity.<br><br>Available on <a href='https://play.google.com/store/apps/details?id=com.VoltGames.Sniper' target='_blank'><b>Android</b></a>!",
+      "assets/sniper hunter logo.png",
+      "assets/sniper hunter.gif",
+      "#1c4117",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "Mine It!",
+      "Worked on the development of gameplay and other features. Made with Unity.<br><br>Available on <a href='https://play.google.com/store/apps/details?id=com.VoltGames.Cozy' target='_blank'><b>Android</b></a>!",
+      "assets/mine it logo.png",
+      "assets/mine it.gif",
+      "#92401f",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "BrainPet",
+      "Worked on new features and improvements for the game. Made with Unity.<br><br>Available on <a href='https://play.google.com/store/apps/details?id=com.VoltGames.BrainGrowth' target='_blank'><b>Android</b></a>!",
+      "assets/brainpet logo.png",
+      "assets/brainpet.gif",
+      "#00bac0",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "Bloom Match",
+      "Worked on new features and improvements for the game. Made with Unity.<br><br>Available on <a href='https://play.google.com/store/apps/details?id=com.volt.bloom' target='_blank'><b>Android</b></a>!",
+      "assets/bloom match logo.png",
+      "assets/bloom match.gif",
+      "#83d624",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "Bitcoin Hotel",
+      "Responsible for the development of the major update that included the Bitcoin integration and other improvements. Made with Unity.<br><br>Available on <a href='https://apps.apple.com/us/app/bitcoin-hotel-match-3d/id6470352656' target='_blank'><b>iOS</b></a>!",
+      "assets/bitcoin hotel logo.png",
+      "assets/bitcoin hotel.gif",
+      "#3a337e",
+      "#FFFFFF",
+      "volt"
+    ),
+    new Project(
+      "Solitaire Drama",
+      "Responsible for the development of the entire game. Made with Unity. <br><br>Available on <a href='https://apps.apple.com/pt/app/solitaire-drama-find-clues/id6788325420' target='_blank'><b>iOS</b></a>!",
+      "assets/solitaire drama logo.png",
+      "assets/solitaire drama.gif",
+      "#490000",
+      "#FFFFFF",
+      "volt"
     ),
   ];
