@@ -13,7 +13,7 @@ export default function SocialHeader() {
       />
       <SocialIcon
         iconClass="fa-solid fa-file"
-        url="https://drive.google.com/file/d/1iY8C0ILdyZeFkEjlRjT_EqrwdQl_JxnO/view?usp=sharing"
+        url="https://drive.google.com/file/d/1L_tSjgIigLzhxOezHQ7tGy87o7FaZ8IP/view?usp=sharing"
       />
       <SocialIcon
         iconClass="fa-solid fa-envelope"
